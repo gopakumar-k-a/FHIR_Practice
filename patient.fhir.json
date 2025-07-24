@@ -1,0 +1,31 @@
+{
+  "resourceType": "Patient",
+  "name": [
+    {
+      "use": "official",
+      "given": ["gopa"],
+      "family": "kumar"
+    }
+  ],
+  "gender": "male",
+  "birthDate": "1945-04-01",
+  "telecom": [
+    {
+      "value": "9999999999",
+      "use": "mobile",
+      "system": "phone"
+    },
+    {
+      "system": "email",
+      "value": "gopu@gmail.com"
+    }
+  ],
+  "address": [
+    {
+      "line": ["23 ,residencey"],
+      "city": "kochi",
+      "state": "kerala",
+      "postalCode": "680454"
+    }
+  ]
+}
